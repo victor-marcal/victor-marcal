@@ -1,10 +1,9 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f3c63&height=120&section=header"/>
+<img width="100%" src="./img/Banner-Github.png"/>
 
 ---
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Victor Marçal. 
 
 🎯 Profissional de processos e desenvolvedor low-code apaixonado por tecnologia e inovação! <br>  
 💻 Em transição de carreira para o desenvolvimento **Back-end**, com foco em **Python, Java, Spring Boot, APIs REST** e **Banco de Dados**.<br>  
@@ -14,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/victor-marcal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-marcal&theme=react&hide_border=false&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-marcal&theme=react&hide_border=false&layout=compact"/>
 </div>
 
 <!-- Habilidades e Tecnologias -->
@@ -40,12 +39,13 @@
   <a href="https://www.instagram.com/victor.buiatti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation 
 <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/github-contribution-grid-snake.svg">
   <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 
 <!-- Pacman Animation -->
@@ -60,5 +60,4 @@
 ![](https://komarev.com/ghpvc/?username=victor-marcal&color=ff69b4)
 ---
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f3c63&height=120&section=footer"/>
+
