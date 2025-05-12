@@ -48,6 +48,14 @@
 </picture>
 
 
+<!-- Pacman Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/victor-marcal/victor-marcal/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 ![](https://komarev.com/ghpvc/?username=victor-marcal&color=ff69b4)
 ---
