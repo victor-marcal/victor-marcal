@@ -10,11 +10,12 @@
 📚 Estudante de Sistemas de Informação na UFU | Entusiasta de boas práticas de desenvolvimento e Clean Code.<br>  
 
 </div>
-
+<!--
 <div align="center">
   <a href="https://github.com/victor-marcal">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-marcal&theme=react&hide_border=false&layout=compact"/>
 </div>
+-->
 
 <!-- Habilidades e Tecnologias -->
 <div style="display: inline_block" align="center"><br>
