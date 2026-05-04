@@ -1,13 +1,12 @@
-<!-- Parte superior da página -->
-<img width="100%" src="./img/Banner-Github.png"/>
-
----
 <div align="center">
 
 
-🎯 Profissional de processos e desenvolvedor low-code apaixonado por tecnologia e inovação! <br>  
-💻 Em transição de carreira para o desenvolvimento **Back-end**, com foco em **Python, Java, Spring Boot, APIs REST** e **Banco de Dados**.<br>  
-📚 Estudante de Sistemas de Informação na UFU | Entusiasta de boas práticas de desenvolvimento e Clean Code.<br>  
+# Olá, eu sou o Victor Hugo Buiatti Marçal
+
+🚀 **Head de Tecnologia e Inovação | Polo Negócios Imobiliários**  
+💡 Liderando iniciativas de transformação digital, arquitetura de sistemas e inovação no setor imobiliário  
+🏗️ Foco em construção de soluções escaláveis, integrações e automação de processos  
+🎓 Bacharel em Sistemas de Informação pela UFU (Universidade Federal de Uberlândia) 
 
 </div>
 <!--
@@ -17,6 +16,25 @@
 </div>
 -->
 
+---
+
+## Sobre mim
+
+Sou um profissional com forte atuação em tecnologia, inovação e melhoria de processos, atualmente liderando a área de tecnologia da **Polo Negócios Imobiliários**.
+
+Tenho experiência na definição de arquitetura de sistemas, integração entre plataformas (CRM, ERP, WhatsApp, automações), além da construção de soluções que impactam diretamente o crescimento e eficiência do negócio.
+
+Hoje meu foco está em:
+
+- Transformação digital e inovação
+- Integração de sistemas (APIs, Webhooks, Omnichannel)
+- Automação de processos e redução de custos operacionais
+- Estruturação de dados para BI e tomada de decisão
+- Arquitetura de soluções escaláveis
+
+---
+
+## Tecnologias e Ferramentas
 <!-- Habilidades e Tecnologias -->
 <div style="display: inline_block" align="center"><br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
@@ -32,6 +50,9 @@
 </div>
 <br>
 
+---
+
+## Contatos
 
 <!-- Contatos -->
 <div align="center"> 
@@ -39,6 +60,8 @@
   <a href = "mailto:victorhugobuiatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victor.buiatti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
 
 <!-- Snake Animation 
 <picture align="center" >
